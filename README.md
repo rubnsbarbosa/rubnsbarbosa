@@ -2,7 +2,7 @@
 
 * 🔭 I'm Master's Student in Computer Science on Artificial Intelligence.
 
-* 🌱 I'm currently focusing on backend and data engineering.
+* 🌱 I'm currently focusing on data.
 
 * ⚡ In the past, I took part in the development iOS apps at [@apple-developer-academy](https://github.com/apple-developer-academy).
 
