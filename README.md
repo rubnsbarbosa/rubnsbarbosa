@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rubens Barbosa :man_technologist:
 
-* 🔭 I'm Master's Student in Computer Science on Artificial Intelligence.
+* 🔭 Computer Engineer.
 
 * 🌱 I'm currently focusing on data.
 
