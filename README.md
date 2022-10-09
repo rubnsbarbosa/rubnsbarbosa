@@ -1,4 +1,6 @@
-## Hi :man_technologist:
+## Hi there 👋
+
+I'm a Data Engineer :man_technologist:
 
 <!--
 * 🔭 Computer Engineer.
