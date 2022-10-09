@@ -1,5 +1,6 @@
-## Hi there 👋, I'm Rubens Barbosa :man_technologist:
+## Hi :man_technologist:
 
+<!--
 * 🔭 Computer Engineer.
 
 * 🌱 I'm currently focusing on data.
@@ -10,7 +11,7 @@
 
 📫 How to reach me: @rubnsbarbosa
 
-<!--
+
 **rubnsbarbosa/rubnsbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
